@@ -1,0 +1,5 @@
+1. Open ipyb in Google Colab
+2. Set runtime to GPU
+3. Make sure to upload Coswara processed tar file and combined csv file to file session storage before runnign any cells
+4. Do not run from the begining as you need colab pro.
+5. Instead run from this line: !tar -xvf /content/Coswara-Processed.tar.gz
